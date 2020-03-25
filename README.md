@@ -1,6 +1,8 @@
 # Demonewrelic
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+Este proyecto es para monitorear con el pugin de New Relic un proyecto de Angular que se enrega a Heroku. 
+Posteriormente mostrare el paso a paso. 
 
 ## Development server
 
